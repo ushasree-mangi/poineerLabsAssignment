@@ -1,0 +1,38 @@
+.footer-container{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 35px;
+    padding-bottom: 50px;
+    background: #05150B;
+    
+    box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
+}
+.company-logo{
+    color: #b8f947;
+    font-family: "Roboto";
+    font-size: 28px;
+}
+.copyright-text{
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 15px;
+} 
+.footer-content-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.footer-heading{
+    color: #ffffff;
+    font-family: "Roboto";
+    
+}
+.footer-unordered-list-container{
+    color: #ffffff;
+    font-family: "Roboto";
+    padding: 0px;
+    list-style-type: none; 
+}

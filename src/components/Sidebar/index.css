@@ -1,0 +1,11 @@
+.sidebar-container {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  height: 100%;
+  width: 300px;
+  background: #023020;
+  color: #ffffff;
+  padding: 15px;
+  padding-bottom: 50px;
+}

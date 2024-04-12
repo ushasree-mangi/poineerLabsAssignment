@@ -1,0 +1,38 @@
+.about-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #000000;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .about-us-details-container {
+    display: flex;
+    flex-direction: column;
+     width: 90%;
+    align-items: center;
+  }
+  
+  .about-us-title {
+    color: #68d812;
+    font-family: 'Open Sans';
+    font-weight: 500;
+    font-size: 30px;
+    margin-top: 30px;
+  }
+  .bitcoin-trade {
+    height: 200px;
+    width: 200px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .welcome-caution {
+    color: #ffffff;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 18px;
+    margin-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  

@@ -1,0 +1,51 @@
+.home {
+    color: #22b939;
+  
+    font-size: 30px;
+    font-family: 'Open Sans';
+  }
+  .home-container {
+    display: flex;
+    flex-direction: row;
+  
+    background-color: black;
+  }
+  .para {
+    color: #ffffff;
+  }
+  .population-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+  }
+  .hello-image{
+    height: 25px;
+    width: 30px;
+    background-color: transparent;
+    
+    margin-left: 12px;
+  }
+  .profile-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .trade {
+    color: #22b939;
+  }
+  .start-trading-btn{
+    background-color:#22b939 ;
+    color: #ffffff;
+    border: none;
+    border-radius: 3px;
+    width: 120px;
+    height: 32px;
+  }
+  .start-trading-text-btn-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }

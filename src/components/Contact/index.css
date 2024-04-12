@@ -1,0 +1,40 @@
+
+.social-media-icon-container{
+    background-color: #ffffff;
+    width: 50px;
+    height: 50px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+ 
+  
+}
+.social-media-icon{
+   
+   font-size: 30px;
+   background-color: #ffffff;
+   margin-right: 14px;
+   
+}
+
+.contact-us-heading{
+    color: #68d812;
+    font-family: "Roboto";
+    margin-bottom: 35px;
+    font-size: 32px;
+}
+.contact-us-section-container{
+    background-color: black ;
+    text-align: center;
+   padding-top: 25px;
+   padding-bottom: 50px;
+
+}
+.social-media-icons-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

@@ -1,0 +1,17 @@
+.graph-population-container {
+    background-color: #1b1b1b;
+    padding: 40px;
+  }
+  .population-text {
+    color: #ffffff;
+    font-size: 15px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+  }
+  .population-title {
+    color: #ffffff;
+    font-size: 40px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    margin-bottom: 30px;
+  }
