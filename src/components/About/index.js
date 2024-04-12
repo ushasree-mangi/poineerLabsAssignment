@@ -8,7 +8,7 @@ const About = () => (
     <div className="about-us-details-container">
       <h2 className="about-us-title">About Us</h2>
       <img
-        src="https://res.cloudinary.com/diqte7t0g/image/upload/v1712844360/ulducqki45nhniju6das.png"
+        src="https://res.cloudinary.com/dtcogqxhp/image/upload/v1712847480/SL_0212121_40670_20_sloenk.jpg"
         alt="bitcoin"
         className="bitcoin-trade"
       />
