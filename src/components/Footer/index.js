@@ -6,7 +6,7 @@ const Footer=()=>{
         <div className='footer-content-container'>
             <div>
                 <h1 className='company-logo'>Carbon Cell</h1>
-                
+                <img className="water-drop-img" src="https://res.cloudinary.com/dtcogqxhp/image/upload/v1712908325/39913_dszdft.jpg"/>
             </div>
         
             <div className="footer-links">
@@ -26,7 +26,7 @@ const Footer=()=>{
             </div>
         </div>
         <div class="copyright-text">
-          © 2000-2023 <strong></strong>. All Rights Reserved
+          © 2000-2024 <strong></strong>. All Rights Reserved
         </div>
     </div>
     )}
